@@ -1,1 +1,6 @@
 <!--world-->
+<ng-template [ngIf]="!start">
+  <button (click)="startGame()">Start Game</button>
+</ng-template>
+
+<div id="game"></div>

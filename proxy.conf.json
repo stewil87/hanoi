@@ -1,0 +1,6 @@
+{
+  "/api/game.php": {
+    "target": "https://backend.ddev.site",
+    "secure": false
+  }
+}
